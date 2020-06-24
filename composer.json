@@ -5,7 +5,8 @@
         "opis/json-schema": "^1.0",
         "ext-json": "*",
         "ext-pdo": "*",
-        "components/chosen": "^1.8"
+        "components/chosen": "^1.8",
+        "ext-dom": "*"
     },
     "config": {
         "component-dir": "/vendor"
